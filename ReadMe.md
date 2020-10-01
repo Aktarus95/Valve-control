@@ -14,6 +14,8 @@ During our second year of studies at the University of Wolverhampton we chose a 
 
 The system is designed to control an Arduino based stepper motor system to open and close valves remotely from a web interface. The hardware automatically stores all open/close, test cases and errors to an SQL log which it then displays over on the tables page. We've also made use of charts to help visualise the data.
 
+![Valve](https://github.com/Maaroufi/Valve-control/blob/master/Prototype_Final.jpeg?raw=true)
+
 The group includes;
 
 Iman Hussain - Team Leader
